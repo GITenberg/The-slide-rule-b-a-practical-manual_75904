@@ -1,5 +1,8 @@
 _repo: The-slide-rule-b-a-practical-manual_75904
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75904-h/images/cover.jpg
 creator:
   author:
     agent_name: Pickworth, Charles N. (Charles Newton)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '58161'
     url: http://www.gutenberg.org/2009/agents/58161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75904#The-slide-rule-b-a-practical-manual
 edition_note: Seventeenth edition
 gutenberg_issued: '2025-04-18'
 gutenberg_type: Text
